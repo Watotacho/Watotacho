@@ -4,4 +4,4 @@
 - 💞️ Currently I am working on a mobile App that allow people to book cars online using Kotlin and react native. 
 .
 - 📫 How to reach me ..watotacho@gmail.com
-- I have another github account for company project.
+- I run two github account for company project and for my personal project.
